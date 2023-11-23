@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VCXZZSE
+- 👋 Hi, I’m repome
 - 👀 I’m interested in Python , Data Science 
 - 🌱 I’m currently learning Python Database
-- 📫 toshibawin21@gmail.com / insta handle - @the_skripach
+- 📫 repomerm23@gmail.com / insta handle - @the_skripach
 
 <!---
 VCXZZSE/VCXZZSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
