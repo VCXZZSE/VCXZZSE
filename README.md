@@ -1,6 +1,5 @@
 - 👋 Hi, I’m repome
-- 👀 I’m interested in Python , Data Science 
-- 🌱 I’m currently learning Python Database
+- 👀 I’m interested in Python , Data Science and Java
 - 📫 repomerm23@gmail.com / insta handle - @the_skripach
 
 <!---
